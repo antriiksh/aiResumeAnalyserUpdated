@@ -76,5 +76,3 @@ python main.py
    - View comprehensive results
 
 **Made by [Antriksh Kashyap](https://github.com/antriiksh)**
-
-</div>
